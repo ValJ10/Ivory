@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Ivory</string>
+    <string name="title_suggested">Suggested</string>
+    <string name="title_personal">My Vaccines</string>
+
+    <string name="adenovirusLink"> https://www.cdc.gov/adenovirus/about/prevention-treatment.html</string>
+    <string name="anthraxLink"> https://www.cdc.gov/vaccines/vpd/anthrax/hcp/index.html</string>
+    <string name="diphtheriaLink"> https://www.cdc.gov/vaccines/vpd/dtap-tdap-td/hcp/index.html</string>
+    <string name="hepatitis_ALink"> https://www.cdc.gov/vaccines/vpd/hepa/hcp/index.html</string>
+    <string name="hepatitis_BLink"> https://www.cdc.gov/vaccines/vpd/hepb/hcp/index.htmll</string>
+    <string name="haemophilus_influenzae_type_bLink"> https://www.cdc.gov/vaccines/vpd/hib/hcp/index.html</string>
+    <string name="human_PapillomavirusLink"> https://www.cdc.gov/vaccines/vpd/hpv/hcp/index.html</string>
+    <string name="seasonal_InfluenzaLink"> https://www.cdc.gov/vaccines/vpd/flu/hcp/index.html</string>
+    <string name="japanese_Encephalitis"> https://www.cdc.gov/vaccines/vpd/j-enceph/hcp/index.html</string>
+    <string name="measlesLink"> https://www.cdc.gov/vaccines/vpd/mmr/hcp/index.html</string>
+    <string name="meningococcalLink"> https://www.cdc.gov/vaccines/vpd/mening/hcp/index.html</string>
+    <string name="mumpsLink"> https://www.cdc.gov/vaccines/vpd/mmr/hcp/index.html</string>
+    <string name="pertussisLink"> https://www.cdc.gov/vaccines/vpd/dtap-tdap-td/hcp/index.html</string>
+    <string name="pneumococcalLink"> https://www.cdc.gov/vaccines/vpd/pneumo/hcp/index.html</string>
+    <string name="polioLink"> https://www.cdc.gov/vaccines/vpd/polio/hcp/index.html</string>
+    <string name="rabiesLink"> https://www.cdc.gov/vaccines/vpd/rabies/hcp/index.html</string>
+    <string name="rotavirusLink"> https://www.cdc.gov/vaccines/vpd/rotavirus/hcp/index.html</string>
+    <string name="rubellaLink"> https://www.cdc.gov/vaccines/vpd/mmr/hcp/index.html</string>
+    <string name="shinglesLink"> https://www.cdc.gov/vaccines/vpd/shingles/hcp/index.html</string>
+    <string name="smallpoxLink"> https://www.cdc.gov/vaccines/vpd/smallpox/hcp/index.html</string>
+    <string name="tetanusLink"> https://www.cdc.gov/vaccines/vpd/dtap-tdap-td/hcp/index.html</string>
+    <string name="tuberculosisLink"> https://www.cdc.gov/vaccines/vpd/tb/hcp/index.html</string>
+    <string name="typhoid_FeverLink"> https://www.cdc.gov/vaccines/vpd/typhoid/hcp/index.html</string>
+    <string name="varicellaLink"> https://www.cdc.gov/vaccines/vpd/varicella/hcp/index.html</string>
+    <string name="yellow_FeverLink"> https://www.cdc.gov/vaccines/vpd/yf/hcp/index.html</string>
+
+    <string-array
+        name="names">
+        <item>Adenovirus</item>
+        <item>Anthrax</item>
+        <item>Diphtheria</item>
+        <item>Hepatitis A</item>
+        <item>Hepatitis B</item>
+        <item>Haemophilus influenzae type b (Hib)</item>
+        <item>Human Papillomavirus (HPV)</item>
+        <item>Seasonal Influenza (Flu)</item>
+        <item>Japanese Encephalitis</item>
+        <item>Measles</item>
+        <item>Meningococcal</item>
+        <item>Mumps</item>
+        <item>Pertussis</item>
+        <item>Pneumococcal</item>
+        <item>Polio</item>
+        <item>Rabies</item>
+        <item>Rotavirus</item>
+        <item>Rubella</item>
+        <item>Shingles</item>
+        <item>Smallpox</item>
+        <item>Tetanus</item>
+        <item>Tuberculosis</item>
+        <item>Typhoid Fever</item>
+        <item>Varicella</item>
+        <item>Yellow Fever</item>
+    </string-array>
+
+    <string-array name="Adenovirus">
+        <item>Adenovirus</item>
+    </string-array>
+
+    <string-array name="Anthrax">
+        <item>AVA (BioThrax)</item>
+    </string-array>
+
+    <string-array name="Diphtheria">
+        <item>DTaP (Daptacel, Infanrix)</item>
+        <item>Td (Tenivac, generic)</item>
+        <item>DT (-generic-)</item>
+        <item>Tdap (Adacel, Boostrix)</item>
+        <item>DTaP-IPV (Kinrix, Quadracel)</item>
+        <item>DTaP-HepB-IPV (Pediarix)</item>
+        <item>DTaP-IPV/Hib (Pentacel)</item>
+    </string-array>
+
+    <string-array name="Hepatitis_A">
+        <item>AHepA (Havrix, Vaqta)</item>
+        <item>HepA-HepB (Twinrix)</item>
+    </string-array>
+
+    <string-array name="Hepatitis_B">
+        <item>HepB (Engerix-B, Recombivax HB))</item>
+        <item>DTaP-HepB-IPV (Pediarix)</item>
+        <item>HepA-HepB (Twinrix)</item>
+    </string-array>
+
+    <string-array name="Haemophilus_influenzae_type_b">
+        <item>Hib (ActHIB, PedvaxHIB, Hiberix))</item>
+        <item>MenCY-Hib (MenHibrix)</item>
+        <item>DTaP-IPV/Hib (Pentacel)</item>
+    </string-array>
+
+    <string-array name="Human_Papillomavirus">
+        <item>HPV9 (Gardasil 9)</item>
+        <item>HPV4 (Gardasil)</item>
+        <item>HPV2 (Cervarix)</item>
+    </string-array>
+
+    <string-array name="Seasonal_Influenza">
+        <item>IIV (Afluria, Fluad, Flublok, Flucelvax, FluLaval, Fluarix, Fluvirin, Fluzone, Fluzone High-Dose,
+              Fluzone Intradermal)</item>
+        <item>LAIV (FluMist)</item>
+    </string-array>
+
+    <string-array name="Japanese_Encephalitis">
+        <item>JE (Ixiaro)</item>
+    </string-array>
+
+    <string-array name="Measles">
+        <item>MMR (M-M-R II)</item>
+        <item>MMRV (ProQuad)</item>
+    </string-array>
+
+    <string-array name="Meningococcal">
+        <item>MenACWY (Menactra, Menveo)</item>
+        <item>MPSV4 (Menomune)</item>
+        <item>MenCY-Hib (MenHibrix)</item>
+        <item>MenB (Bexsero, Trumenba)</item>
+    </string-array>
+
+    <string-array name="Mumps">
+        <item>MMR (M-M-R II)</item>
+        <item>MMRV (ProQuad)</item>
+    </string-array>
+
+
+    <string-array name="Pertussis">
+        <item>DTaP - Daptacel, Infanrix</item>
+        <item>Tdap - Adacel, Boostrix</item>
+        <item>DTaP-IPV : Kinrix, Quadracel</item>
+        <item>DTaP-HepB-IPV - Pediarix</item>
+        <item>DTaP-IPV/Hib - Pentacel</item>
+    </string-array>
+
+    <string-array name="Pneumococcal">
+        <item>PCV13 (Prevnar13)</item>
+        <item>PPSV23 (Pneumovax 23)</item>
+    </string-array>
+
+    <string-array name="Polio">
+        <item> Polio - Ipol</item>
+        <item>DTaP-IPV - Kinrix, Quadracel</item>
+        <item> DTaP-HepB-IPV - Pediarix</item>
+        <item>DTaP-IPV/Hib - Pentacel</item>
+    </string-array>
+    <string-array name="Rabies">
+        <item>Rabies - Imovax Rabies, RabAvert</item>
+    </string-array>
+    <string-array name="Rotavirus">
+        <item>RV1 - Rotarix</item>
+        <item>RV5 - RotaTeq</item>
+    </string-array>
+
+    <string-array name="Rubella">
+        <item>MMR : M-M-R II</item>
+        <item>MMRV - ProQuad</item>
+    </string-array>
+    <string-array name="Shingles">
+        <item>ZOS - Zostavax</item>
+    </string-array>
+
+    <string-array name="Smallpox">
+        <item>Vaccinia (ACAM2000)</item>
+    </string-array>
+    <string-array name="Tetanus">
+        <item>DTaP - Daptacel, Infanrix</item>
+        <item>Td Tenivac, generic</item>
+        <item>DT generic</item>
+        <item>Tdap - Adacel, Boostrix</item>
+        <item>DTaP-IPV - Kinrix, Quadracel</item>
+        <item>DTaP-HepB-IPV - Pediarix</item>
+        <item>DTaP-IPV/Hib - Pentacel</item>
+    </string-array>
+    <string-array name="Tuberculosis">
+        <item>Tuberculosis</item>
+    </string-array>
+    <string-array name="Typhoid_Fever">
+        <item>Typhoid Oral - Vivotif</item>
+        <item>Typhoid Polysaccharide - Typhim Vi</item>
+    </string-array>
+
+
+    <string-array name="Varicella">
+        <item>VAR - Varivax</item>
+        <item>MMRV - ProQuad</item>
+    </string-array>
+
+    <string-array name="Yellow_Fever">
+        <item>YF (YF-Vax)</item>
+    </string-array>
+
+
+
+
+
+
+
+
+    <string name="title_activity_add_vaccination">Add Vaccination</string>
+    <string name="title_activity_vaccine_info">Vaccine Info</string>
+
+</resources>
