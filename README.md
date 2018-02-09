@@ -7,9 +7,3 @@ Created during HackHealth Hackathon 2018
 <br>
 
 <img src="Ivory/a.png" width="250"> <img src="Ivory/b.png" width="250"> <img src="Ivory/c.png" width="250">
-
-<br>
-
-<h1>Release APK</h1>
-
-[Download Here](https://github.com/trickedoutdavid/Ivory/raw/master/Ivory/app/release/app-release.apk)
